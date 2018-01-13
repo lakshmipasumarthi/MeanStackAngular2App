@@ -1,0 +1,30 @@
+{
+  "name": "sampleapp",
+  "version": "1.0.0",
+  "description": "Mean Stack with Angular 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakshmipasumarthi/MeanStackAngular2App.git"
+  },
+  "keywords": [
+    "Mean",
+    "Stack",
+    "Angular",
+    "2",
+    "Application"
+  ],
+  "author": "Lakshmi Pasumarthi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lakshmipasumarthi/MeanStackAngular2App/issues"
+  },
+  "homepage": "https://github.com/lakshmipasumarthi/MeanStackAngular2App#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.13.9"
+  }
+}
